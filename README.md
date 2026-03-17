@@ -28,3 +28,6 @@ A Python-based network traffic analysis tool that processes `.pcap` files to ext
    ```bash
    git clone https://github.com/yourusername/your-repo.git
    cd your-repo
+2. Install dependencies
+   ```bash
+   pip install scapy pandas matplotlib

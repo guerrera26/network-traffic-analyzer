@@ -31,3 +31,9 @@ A Python-based network traffic analysis tool that processes `.pcap` files to ext
 2. Install dependencies
    ```bash
    pip install scapy pandas matplotlib
+3. Run the analyzer with a PCAP file:
+   ```bash
+   python analyzer.py your_file.pcap
+4. Enable visualizations:
+   ```bash
+   python analyzer.py your_file.pcap --plots

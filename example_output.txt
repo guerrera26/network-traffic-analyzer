@@ -1,0 +1,19 @@
+Analyzing PCAP file...
+
+--- Traffic Summary ---
+Packets analyzed: 752
+Total traffic: 0.09 MB
+
+Protocol Breakdown:
+TCP: 70.35%
+OTHER: 21.41%
+UDP: 8.24%
+
+Top Talkers:
+127.0.0.1 -> 0.07 MB
+               src              dst protocol  bytes
+0        127.0.0.1        127.0.0.1      TCP  57689
+4  122.122.122.134   122.122.122.10    OTHER   7628
+2        127.0.0.1        127.0.0.1    OTHER   6164
+5   122.122.122.10  122.122.122.134    OTHER   5128
+3        127.0.0.1        127.0.0.1      UDP   2240

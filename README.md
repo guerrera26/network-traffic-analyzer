@@ -676,13 +676,6 @@ PCAP-Traffic-Analyzer/
 
 This project demonstrates a clean Python workflow for analyzing packet capture data using Scapy, aggregating network statistics with dictionaries and Pandas, and optionally visualizing traffic patterns with Matplotlib.
 
-It is a good foundation for:
-- Learning packet analysis
-- Demonstrating Python networking skills
-- Building more advanced traffic inspection tools later
-
----
-
 # Quick Start
 
 ```bash

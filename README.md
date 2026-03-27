@@ -50,6 +50,7 @@ This tool is especially useful for:
 PCAP-Traffic-Analyzer/
 │
 ├── analyzer.py
+├── capture.pcap
 ├── example_output.txt
 └── README.md
 ```
